@@ -1,6 +1,8 @@
 # GitHub
 
 Switch branch to master to see the files
+(Readme is on main)
+(Files are on master)
 <br>
 <br>
 <br>
